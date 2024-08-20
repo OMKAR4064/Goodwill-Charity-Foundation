@@ -1,0 +1,542 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Downloads\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC23466A-F775-49FE-9D62-718F0F327E64}|GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API.csproj|c:\\users\\dell\\downloads\\goodwillcharity_dotnet_api\\goodwillcharity_dotnet_api\\goodwillcharity_dotnet_api\\util\\logincredentials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC23466A-F775-49FE-9D62-718F0F327E64}|GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API.csproj|solutionrelative:goodwillcharity_dotnet_api\\util\\logincredentials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC23466A-F775-49FE-9D62-718F0F327E64}|GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API.csproj|c:\\users\\dell\\downloads\\goodwillcharity_dotnet_api\\goodwillcharity_dotnet_api\\goodwillcharity_dotnet_api\\models\\donation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC23466A-F775-49FE-9D62-718F0F327E64}|GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API.csproj|solutionrelative:goodwillcharity_dotnet_api\\models\\donation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC23466A-F775-49FE-9D62-718F0F327E64}|GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API.csproj|c:\\users\\dell\\downloads\\goodwillcharity_dotnet_api\\goodwillcharity_dotnet_api\\goodwillcharity_dotnet_api\\models\\charity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC23466A-F775-49FE-9D62-718F0F327E64}|GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API.csproj|solutionrelative:goodwillcharity_dotnet_api\\models\\charity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC23466A-F775-49FE-9D62-718F0F327E64}|GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API.csproj|c:\\users\\dell\\downloads\\goodwillcharity_dotnet_api\\goodwillcharity_dotnet_api\\goodwillcharity_dotnet_api\\controllers\\donorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC23466A-F775-49FE-9D62-718F0F327E64}|GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API.csproj|solutionrelative:goodwillcharity_dotnet_api\\controllers\\donorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC23466A-F775-49FE-9D62-718F0F327E64}|GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API.csproj|c:\\users\\dell\\downloads\\goodwillcharity_dotnet_api\\goodwillcharity_dotnet_api\\goodwillcharity_dotnet_api\\services\\implmentation\\donorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC23466A-F775-49FE-9D62-718F0F327E64}|GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API.csproj|solutionrelative:goodwillcharity_dotnet_api\\services\\implmentation\\donorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC23466A-F775-49FE-9D62-718F0F327E64}|GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API.csproj|c:\\users\\dell\\downloads\\goodwillcharity_dotnet_api\\goodwillcharity_dotnet_api\\goodwillcharity_dotnet_api\\services\\abstract\\idonorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC23466A-F775-49FE-9D62-718F0F327E64}|GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API.csproj|solutionrelative:goodwillcharity_dotnet_api\\services\\abstract\\idonorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC23466A-F775-49FE-9D62-718F0F327E64}|GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API.csproj|c:\\users\\dell\\downloads\\goodwillcharity_dotnet_api\\goodwillcharity_dotnet_api\\goodwillcharity_dotnet_api\\services\\implmentation\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC23466A-F775-49FE-9D62-718F0F327E64}|GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API.csproj|solutionrelative:goodwillcharity_dotnet_api\\services\\implmentation\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC23466A-F775-49FE-9D62-718F0F327E64}|GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API.csproj|c:\\users\\dell\\downloads\\goodwillcharity_dotnet_api\\goodwillcharity_dotnet_api\\goodwillcharity_dotnet_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BC23466A-F775-49FE-9D62-718F0F327E64}|GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API.csproj|solutionrelative:goodwillcharity_dotnet_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC23466A-F775-49FE-9D62-718F0F327E64}|GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API.csproj|c:\\users\\dell\\downloads\\goodwillcharity_dotnet_api\\goodwillcharity_dotnet_api\\goodwillcharity_dotnet_api\\util\\constant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC23466A-F775-49FE-9D62-718F0F327E64}|GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API.csproj|solutionrelative:goodwillcharity_dotnet_api\\util\\constant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC23466A-F775-49FE-9D62-718F0F327E64}|GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API.csproj|c:\\users\\dell\\downloads\\goodwillcharity_dotnet_api\\goodwillcharity_dotnet_api\\goodwillcharity_dotnet_api\\services\\abstract\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC23466A-F775-49FE-9D62-718F0F327E64}|GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API.csproj|solutionrelative:goodwillcharity_dotnet_api\\services\\abstract\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC23466A-F775-49FE-9D62-718F0F327E64}|GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API.csproj|c:\\users\\dell\\downloads\\goodwillcharity_dotnet_api\\goodwillcharity_dotnet_api\\goodwillcharity_dotnet_api\\controllers\\charitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC23466A-F775-49FE-9D62-718F0F327E64}|GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API.csproj|solutionrelative:goodwillcharity_dotnet_api\\controllers\\charitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC23466A-F775-49FE-9D62-718F0F327E64}|GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API.csproj|c:\\users\\dell\\downloads\\goodwillcharity_dotnet_api\\goodwillcharity_dotnet_api\\goodwillcharity_dotnet_api\\services\\implmentation\\charityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC23466A-F775-49FE-9D62-718F0F327E64}|GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API.csproj|solutionrelative:goodwillcharity_dotnet_api\\services\\implmentation\\charityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC23466A-F775-49FE-9D62-718F0F327E64}|GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API.csproj|c:\\users\\dell\\downloads\\goodwillcharity_dotnet_api\\goodwillcharity_dotnet_api\\goodwillcharity_dotnet_api\\services\\implmentation\\ngoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC23466A-F775-49FE-9D62-718F0F327E64}|GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API.csproj|solutionrelative:goodwillcharity_dotnet_api\\services\\implmentation\\ngoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC23466A-F775-49FE-9D62-718F0F327E64}|GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API.csproj|c:\\users\\dell\\downloads\\goodwillcharity_dotnet_api\\goodwillcharity_dotnet_api\\goodwillcharity_dotnet_api\\controllers\\ngocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC23466A-F775-49FE-9D62-718F0F327E64}|GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API.csproj|solutionrelative:goodwillcharity_dotnet_api\\controllers\\ngocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC23466A-F775-49FE-9D62-718F0F327E64}|GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API.csproj|c:\\users\\dell\\downloads\\goodwillcharity_dotnet_api\\goodwillcharity_dotnet_api\\goodwillcharity_dotnet_api\\controllers\\donationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC23466A-F775-49FE-9D62-718F0F327E64}|GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API.csproj|solutionrelative:goodwillcharity_dotnet_api\\controllers\\donationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC23466A-F775-49FE-9D62-718F0F327E64}|GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API.csproj|c:\\users\\dell\\downloads\\goodwillcharity_dotnet_api\\goodwillcharity_dotnet_api\\goodwillcharity_dotnet_api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC23466A-F775-49FE-9D62-718F0F327E64}|GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API.csproj|solutionrelative:goodwillcharity_dotnet_api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC23466A-F775-49FE-9D62-718F0F327E64}|GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API.csproj|c:\\users\\dell\\downloads\\goodwillcharity_dotnet_api\\goodwillcharity_dotnet_api\\goodwillcharity_dotnet_api\\models\\ngo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC23466A-F775-49FE-9D62-718F0F327E64}|GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API.csproj|solutionrelative:goodwillcharity_dotnet_api\\models\\ngo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC23466A-F775-49FE-9D62-718F0F327E64}|GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API.csproj|c:\\users\\dell\\downloads\\goodwillcharity_dotnet_api\\goodwillcharity_dotnet_api\\goodwillcharity_dotnet_api\\models\\donor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC23466A-F775-49FE-9D62-718F0F327E64}|GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API.csproj|solutionrelative:goodwillcharity_dotnet_api\\models\\donor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC23466A-F775-49FE-9D62-718F0F327E64}|GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API.csproj|c:\\users\\dell\\downloads\\goodwillcharity_dotnet_api\\goodwillcharity_dotnet_api\\goodwillcharity_dotnet_api\\models\\databasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC23466A-F775-49FE-9D62-718F0F327E64}|GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API.csproj|solutionrelative:goodwillcharity_dotnet_api\\models\\databasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC23466A-F775-49FE-9D62-718F0F327E64}|GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API.csproj|c:\\users\\dell\\downloads\\goodwillcharity_dotnet_api\\goodwillcharity_dotnet_api\\goodwillcharity_dotnet_api\\models\\commonproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC23466A-F775-49FE-9D62-718F0F327E64}|GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API.csproj|solutionrelative:goodwillcharity_dotnet_api\\models\\commonproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC23466A-F775-49FE-9D62-718F0F327E64}|GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API.csproj|c:\\users\\dell\\downloads\\goodwillcharity_dotnet_api\\goodwillcharity_dotnet_api\\goodwillcharity_dotnet_api\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC23466A-F775-49FE-9D62-718F0F327E64}|GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API.csproj|solutionrelative:goodwillcharity_dotnet_api\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC23466A-F775-49FE-9D62-718F0F327E64}|GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API.csproj|c:\\users\\dell\\downloads\\goodwillcharity_dotnet_api\\goodwillcharity_dotnet_api\\goodwillcharity_dotnet_api\\services\\implmentation\\donationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC23466A-F775-49FE-9D62-718F0F327E64}|GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API.csproj|solutionrelative:goodwillcharity_dotnet_api\\services\\implmentation\\donationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC23466A-F775-49FE-9D62-718F0F327E64}|GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API.csproj|c:\\users\\dell\\downloads\\goodwillcharity_dotnet_api\\goodwillcharity_dotnet_api\\goodwillcharity_dotnet_api\\services\\abstract\\idonationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC23466A-F775-49FE-9D62-718F0F327E64}|GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API.csproj|solutionrelative:goodwillcharity_dotnet_api\\services\\abstract\\idonationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC23466A-F775-49FE-9D62-718F0F327E64}|GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API.csproj|c:\\users\\dell\\downloads\\goodwillcharity_dotnet_api\\goodwillcharity_dotnet_api\\goodwillcharity_dotnet_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC23466A-F775-49FE-9D62-718F0F327E64}|GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API.csproj|solutionrelative:goodwillcharity_dotnet_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC23466A-F775-49FE-9D62-718F0F327E64}|GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API.csproj|c:\\users\\dell\\downloads\\goodwillcharity_dotnet_api\\goodwillcharity_dotnet_api\\goodwillcharity_dotnet_api\\services\\abstract\\ingoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC23466A-F775-49FE-9D62-718F0F327E64}|GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API.csproj|solutionrelative:goodwillcharity_dotnet_api\\services\\abstract\\ingoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC23466A-F775-49FE-9D62-718F0F327E64}|GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API.csproj|c:\\users\\dell\\downloads\\goodwillcharity_dotnet_api\\goodwillcharity_dotnet_api\\goodwillcharity_dotnet_api\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC23466A-F775-49FE-9D62-718F0F327E64}|GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API.csproj|solutionrelative:goodwillcharity_dotnet_api\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC23466A-F775-49FE-9D62-718F0F327E64}|GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API.csproj|c:\\users\\dell\\downloads\\goodwillcharity_dotnet_api\\goodwillcharity_dotnet_api\\goodwillcharity_dotnet_api\\services\\implmentation\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC23466A-F775-49FE-9D62-718F0F327E64}|GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API.csproj|solutionrelative:goodwillcharity_dotnet_api\\services\\implmentation\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC23466A-F775-49FE-9D62-718F0F327E64}|GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API.csproj|c:\\users\\dell\\downloads\\goodwillcharity_dotnet_api\\goodwillcharity_dotnet_api\\goodwillcharity_dotnet_api\\services\\abstract\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC23466A-F775-49FE-9D62-718F0F327E64}|GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API.csproj|solutionrelative:goodwillcharity_dotnet_api\\services\\abstract\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC23466A-F775-49FE-9D62-718F0F327E64}|GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API.csproj|c:\\users\\dell\\downloads\\goodwillcharity_dotnet_api\\goodwillcharity_dotnet_api\\goodwillcharity_dotnet_api\\util\\tokengenrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC23466A-F775-49FE-9D62-718F0F327E64}|GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API.csproj|solutionrelative:goodwillcharity_dotnet_api\\util\\tokengenrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC23466A-F775-49FE-9D62-718F0F327E64}|GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API.csproj|c:\\users\\dell\\downloads\\goodwillcharity_dotnet_api\\goodwillcharity_dotnet_api\\goodwillcharity_dotnet_api\\models\\paymentresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC23466A-F775-49FE-9D62-718F0F327E64}|GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API.csproj|solutionrelative:goodwillcharity_dotnet_api\\models\\paymentresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\cdac\\dot net\\work\\Final Project\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\Services\\Abstract\\ICharityService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginCredentials.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\Util\\LoginCredentials.cs",
+              "RelativeDocumentMoniker": "GoodWillCharity_DotNet_API\\Util\\LoginCredentials.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\Util\\LoginCredentials.cs",
+              "RelativeToolTip": "GoodWillCharity_DotNet_API\\Util\\LoginCredentials.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T13:44:41.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DonationController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\Controllers\\DonationController.cs",
+              "RelativeDocumentMoniker": "GoodWillCharity_DotNet_API\\Controllers\\DonationController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\Controllers\\DonationController.cs",
+              "RelativeToolTip": "GoodWillCharity_DotNet_API\\Controllers\\DonationController.cs",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAuwJAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T21:12:52.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DonationService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\Services\\Implmentation\\DonationService.cs",
+              "RelativeDocumentMoniker": "GoodWillCharity_DotNet_API\\Services\\Implmentation\\DonationService.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\Services\\Implmentation\\DonationService.cs",
+              "RelativeToolTip": "GoodWillCharity_DotNet_API\\Services\\Implmentation\\DonationService.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAmwCAAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T21:03:11.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IDonationService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\Services\\Abstract\\IDonationService.cs",
+              "RelativeDocumentMoniker": "GoodWillCharity_DotNet_API\\Services\\Abstract\\IDonationService.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\Services\\Abstract\\IDonationService.cs",
+              "RelativeToolTip": "GoodWillCharity_DotNet_API\\Services\\Abstract\\IDonationService.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAD4vwkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T20:57:18.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Donation.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\Models\\Donation.cs",
+              "RelativeDocumentMoniker": "GoodWillCharity_DotNet_API\\Models\\Donation.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\Models\\Donation.cs",
+              "RelativeToolTip": "GoodWillCharity_DotNet_API\\Models\\Donation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T20:51:23.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CharityController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\Controllers\\CharityController.cs",
+              "RelativeDocumentMoniker": "GoodWillCharity_DotNet_API\\Controllers\\CharityController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\Controllers\\CharityController.cs",
+              "RelativeToolTip": "GoodWillCharity_DotNet_API\\Controllers\\CharityController.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAcwFQAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T19:33:42.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CharityService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\Services\\Implmentation\\CharityService.cs",
+              "RelativeDocumentMoniker": "GoodWillCharity_DotNet_API\\Services\\Implmentation\\CharityService.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\Services\\Implmentation\\CharityService.cs",
+              "RelativeToolTip": "GoodWillCharity_DotNet_API\\Services\\Implmentation\\CharityService.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAUwCQAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T19:22:25.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ICharityService.cs",
+              "DocumentMoniker": "D:\\CDAC\\dot net\\work\\Final Project\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\Services\\Abstract\\ICharityService.cs",
+              "ToolTip": "D:\\CDAC\\dot net\\work\\Final Project\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\Services\\Abstract\\ICharityService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T19:17:34.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Charity.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\Models\\Charity.cs",
+              "RelativeDocumentMoniker": "GoodWillCharity_DotNet_API\\Models\\Charity.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\Models\\Charity.cs",
+              "RelativeToolTip": "GoodWillCharity_DotNet_API\\Models\\Charity.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAwA8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T15:12:48.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Constant.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\Util\\Constant.cs",
+              "RelativeDocumentMoniker": "GoodWillCharity_DotNet_API\\Util\\Constant.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\Util\\Constant.cs",
+              "RelativeToolTip": "GoodWillCharity_DotNet_API\\Util\\Constant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T08:52:31.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "GoodWillCharity_DotNet_API\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "GoodWillCharity_DotNet_API\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAQwBoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T08:09:33.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AdminService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\Services\\Implmentation\\AdminService.cs",
+              "RelativeDocumentMoniker": "GoodWillCharity_DotNet_API\\Services\\Implmentation\\AdminService.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\Services\\Implmentation\\AdminService.cs",
+              "RelativeToolTip": "GoodWillCharity_DotNet_API\\Services\\Implmentation\\AdminService.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAADwvw0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T07:55:00.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IAdminService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\Services\\Abstract\\IAdminService.cs",
+              "RelativeDocumentMoniker": "GoodWillCharity_DotNet_API\\Services\\Abstract\\IAdminService.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\Services\\Abstract\\IAdminService.cs",
+              "RelativeToolTip": "GoodWillCharity_DotNet_API\\Services\\Abstract\\IAdminService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAwwAgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T07:50:59.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "GoodWillCharity_DotNet_API\\Models\\Admin.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\Models\\Admin.cs",
+              "RelativeToolTip": "GoodWillCharity_DotNet_API\\Models\\Admin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T07:49:31.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "PaymentResponse.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\Models\\PaymentResponse.cs",
+              "RelativeDocumentMoniker": "GoodWillCharity_DotNet_API\\Models\\PaymentResponse.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\Models\\PaymentResponse.cs",
+              "RelativeToolTip": "GoodWillCharity_DotNet_API\\Models\\PaymentResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T20:28:43.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "GoodWillCharity_DotNet_API\\Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "GoodWillCharity_DotNet_API\\Controllers\\PaymentController.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAQwEYAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T15:08:23.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TokenGenrator.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\Util\\TokenGenrator.cs",
+              "RelativeDocumentMoniker": "GoodWillCharity_DotNet_API\\Util\\TokenGenrator.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\Util\\TokenGenrator.cs",
+              "RelativeToolTip": "GoodWillCharity_DotNet_API\\Util\\TokenGenrator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T07:40:17.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FileService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\Services\\Implmentation\\FileService.cs",
+              "RelativeDocumentMoniker": "GoodWillCharity_DotNet_API\\Services\\Implmentation\\FileService.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\Services\\Implmentation\\FileService.cs",
+              "RelativeToolTip": "GoodWillCharity_DotNet_API\\Services\\Implmentation\\FileService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwvw0AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T14:00:00.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IFileService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\Services\\Abstract\\IFileService.cs",
+              "RelativeDocumentMoniker": "GoodWillCharity_DotNet_API\\Services\\Abstract\\IFileService.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\Services\\Abstract\\IFileService.cs",
+              "RelativeToolTip": "GoodWillCharity_DotNet_API\\Services\\Abstract\\IFileService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T13:59:27.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NgoController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\Controllers\\NgoController.cs",
+              "RelativeDocumentMoniker": "GoodWillCharity_DotNet_API\\Controllers\\NgoController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\Controllers\\NgoController.cs",
+              "RelativeToolTip": "GoodWillCharity_DotNet_API\\Controllers\\NgoController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAIwAoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T12:06:43.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DonorController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\Controllers\\DonorController.cs",
+              "RelativeDocumentMoniker": "GoodWillCharity_DotNet_API\\Controllers\\DonorController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\Controllers\\DonorController.cs",
+              "RelativeToolTip": "GoodWillCharity_DotNet_API\\Controllers\\DonorController.cs",
+              "ViewState": "AQIAAHkAAAAAAAAAAAAAwH8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T12:05:56.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NgoService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\Services\\Implmentation\\NgoService.cs",
+              "RelativeDocumentMoniker": "GoodWillCharity_DotNet_API\\Services\\Implmentation\\NgoService.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\Services\\Implmentation\\NgoService.cs",
+              "RelativeToolTip": "GoodWillCharity_DotNet_API\\Services\\Implmentation\\NgoService.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAgwDUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T12:03:02.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\appsettings.json",
+              "RelativeDocumentMoniker": "GoodWillCharity_DotNet_API\\appsettings.json",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\appsettings.json",
+              "RelativeToolTip": "GoodWillCharity_DotNet_API\\appsettings.json",
+              "ViewState": "AQIAAAwAAAAAAAAAAIBJwAgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-06T12:01:53.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DonorService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\Services\\Implmentation\\DonorService.cs",
+              "RelativeDocumentMoniker": "GoodWillCharity_DotNet_API\\Services\\Implmentation\\DonorService.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\Services\\Implmentation\\DonorService.cs",
+              "RelativeToolTip": "GoodWillCharity_DotNet_API\\Services\\Implmentation\\DonorService.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAuwDIAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T12:01:15.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "INgoService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\Services\\Abstract\\INgoService.cs",
+              "RelativeDocumentMoniker": "GoodWillCharity_DotNet_API\\Services\\Abstract\\INgoService.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\Services\\Abstract\\INgoService.cs",
+              "RelativeToolTip": "GoodWillCharity_DotNet_API\\Services\\Abstract\\INgoService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA1wAwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T12:01:00.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IDonorService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\Services\\Abstract\\IDonorService.cs",
+              "RelativeDocumentMoniker": "GoodWillCharity_DotNet_API\\Services\\Abstract\\IDonorService.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\Services\\Abstract\\IDonorService.cs",
+              "RelativeToolTip": "GoodWillCharity_DotNet_API\\Services\\Abstract\\IDonorService.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAmwAoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T12:00:49.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Ngo.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\Models\\Ngo.cs",
+              "RelativeDocumentMoniker": "GoodWillCharity_DotNet_API\\Models\\Ngo.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\Models\\Ngo.cs",
+              "RelativeToolTip": "GoodWillCharity_DotNet_API\\Models\\Ngo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T12:00:41.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Donor.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\Models\\Donor.cs",
+              "RelativeDocumentMoniker": "GoodWillCharity_DotNet_API\\Models\\Donor.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\Models\\Donor.cs",
+              "RelativeToolTip": "GoodWillCharity_DotNet_API\\Models\\Donor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T12:00:22.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DatabaseSettings.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\Models\\DatabaseSettings.cs",
+              "RelativeDocumentMoniker": "GoodWillCharity_DotNet_API\\Models\\DatabaseSettings.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\Models\\DatabaseSettings.cs",
+              "RelativeToolTip": "GoodWillCharity_DotNet_API\\Models\\DatabaseSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T12:00:14.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CommonProperties.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\Models\\CommonProperties.cs",
+              "RelativeDocumentMoniker": "GoodWillCharity_DotNet_API\\Models\\CommonProperties.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\Models\\CommonProperties.cs",
+              "RelativeToolTip": "GoodWillCharity_DotNet_API\\Models\\CommonProperties.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA3wBEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T11:58:54.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\Program.cs",
+              "RelativeDocumentMoniker": "GoodWillCharity_DotNet_API\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\Program.cs",
+              "RelativeToolTip": "GoodWillCharity_DotNet_API\\Program.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAIBJwAYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T11:56:16.931Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

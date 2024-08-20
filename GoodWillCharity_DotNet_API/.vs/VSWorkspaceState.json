@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\GoodWillCharity_DotNet_API",
+    "\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API",
+    "\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\bin",
+    "\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\bin\\Debug",
+    "\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\bin\\Debug\\net8.0",
+    "\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\bin\\Release",
+    "\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\obj",
+    "\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\obj\\Debug",
+    "\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\obj\\Debug\\net8.0"
+  ],
+  "SelectedNode": "\\GoodWillCharity_DotNet_API\\GoodWillCharity_DotNet_API\\Controllers\\DonationController.cs",
+  "PreviewInSolutionExplorer": false
+}

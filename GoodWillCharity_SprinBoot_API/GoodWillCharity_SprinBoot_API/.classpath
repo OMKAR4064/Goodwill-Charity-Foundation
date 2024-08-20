@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="com/GoodWillCharity_SprinBoot_API/app/Util/|com/GoodWillCharity_SprinBoot_API/app/serviceimpl/|com/GoodWillCharity_SprinBoot_API/app/controller/" kind="src" path="GoodWillCharity_SprinBoot_API/src/main/java"/>
+	<classpathentry kind="src" path="GoodWillCharity_SprinBoot_API/src/main/java/com/GoodWillCharity_SprinBoot_API/app/controller"/>
+	<classpathentry kind="src" path="GoodWillCharity_SprinBoot_API/src/main/java/com/GoodWillCharity_SprinBoot_API/app/serviceimpl"/>
+	<classpathentry kind="src" path="GoodWillCharity_SprinBoot_API/src/main/java/com/GoodWillCharity_SprinBoot_API/app/Util"/>
+	<classpathentry kind="src" path="GoodWillCharity_SprinBoot_API/src/test/java"/>
+	<classpathentry kind="output" path="GoodWillCharity_SprinBoot_API/target/classes"/>
+</classpath>
